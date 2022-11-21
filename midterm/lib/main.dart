@@ -170,7 +170,7 @@ class screen2 extends StatelessWidget {
           Row(mainAxisAlignment: MainAxisAlignment.end,
             children: [
               Container(
-                height: 150,
+                height: 180,
                 width: 350,
                 padding: EdgeInsets.fromLTRB(5, 5, 20, 5),
                 child:Text('高中就讀於中正高工，高職三年在師長們的帶領下，學到電子及程式各領域的知識，'
